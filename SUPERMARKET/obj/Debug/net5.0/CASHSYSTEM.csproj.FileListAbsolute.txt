@@ -1,0 +1,16 @@
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.exe
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.deps.json
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.runtimeconfig.json
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.runtimeconfig.dev.json
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.dll
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\ref\CASHSYSTEM.dll
+C:\Users\BRUNO\CASHSYSTEM\bin\Debug\net5.0\CASHSYSTEM.pdb
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.csproj.AssemblyReference.cache
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.AssemblyInfoInputs.cache
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.AssemblyInfo.cs
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.dll
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\ref\CASHSYSTEM.dll
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.pdb
+C:\Users\BRUNO\CASHSYSTEM\obj\Debug\net5.0\CASHSYSTEM.genruntimeconfig.cache

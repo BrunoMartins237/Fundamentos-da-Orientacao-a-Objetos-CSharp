@@ -1,0 +1,16 @@
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.exe
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.deps.json
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.runtimeconfig.json
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.runtimeconfig.dev.json
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.dll
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\ref\SUPERMARKET.dll
+C:\Users\BRUNO\SUPERMARKET\bin\Debug\net5.0\SUPERMARKET.pdb
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.csproj.AssemblyReference.cache
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.AssemblyInfoInputs.cache
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.AssemblyInfo.cs
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.dll
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\ref\SUPERMARKET.dll
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.pdb
+C:\Users\BRUNO\SUPERMARKET\obj\Debug\net5.0\SUPERMARKET.genruntimeconfig.cache
