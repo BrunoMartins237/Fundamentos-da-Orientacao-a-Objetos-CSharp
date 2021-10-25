@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BRUNO\\SUPERMARKET\\SUPERMARKET.csproj",
-      "projectName": "SUPERMARKET",
-      "projectPath": "C:\\Users\\BRUNO\\SUPERMARKET\\SUPERMARKET.csproj",
+      "projectUniqueName": "C:\\Users\\BRUNO\\Documents\\GitHub\\Fundamentos-da-Orientacao-a-Objetos-CSharp\\SUPERMARKET\\SUPERMARKET1.csproj",
+      "projectName": "SUPERMARKET1",
+      "projectPath": "C:\\Users\\BRUNO\\Documents\\GitHub\\Fundamentos-da-Orientacao-a-Objetos-CSharp\\SUPERMARKET\\SUPERMARKET1.csproj",
       "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BRUNO\\SUPERMARKET\\obj\\",
+      "outputPath": "C:\\Users\\BRUNO\\Documents\\GitHub\\Fundamentos-da-Orientacao-a-Objetos-CSharp\\SUPERMARKET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
