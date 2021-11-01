@@ -9,5 +9,6 @@ namespace SUPERMARKET1.Products.CleaningProduct
         {
             
         }
+        
     }
 }

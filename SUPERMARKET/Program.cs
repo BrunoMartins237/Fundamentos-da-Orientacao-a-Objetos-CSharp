@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using SUPERMARKET1.Products.CleaningProduct;
 
 namespace SUPERMARKET
@@ -8,8 +9,10 @@ namespace SUPERMARKET
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var cleaningproduct = new CleaningProduct("Vanish", 10);
-            Console.WriteLine(cleaningproduct.NameOfProduct);
+            var limpeza = new List<CleaningProduct>();
+            var vanish = new CleaningProduct("Vanish: Limpa a Alma", 10);
+            Console.WriteLine(vanish.NameOfProduct);
+            Console.WriteLine(vanish.PriceOfProduct);
         }
     }
 }

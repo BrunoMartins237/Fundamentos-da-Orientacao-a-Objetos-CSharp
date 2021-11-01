@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using SUPERMARKET1.Products.CleaningProduct;
+
 namespace SUPERMARKET1.Sections.CleaningSection
 {
     public class CleaningSection : GeneralSection
@@ -7,6 +10,8 @@ namespace SUPERMARKET1.Sections.CleaningSection
         string nameOfProduct) 
         : base(lotNumber, sectionName, nameOfProduct)
         {
+            CleaningProducts = new List<CleaningProduct>();
         }
+        public IList<CleaningProduct> CleaningProducts { get; set; }
     }
 }
